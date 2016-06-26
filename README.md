@@ -45,12 +45,11 @@ See here for more:
 
 http://framework.selahattinyuksel.net
 
-Case Studies: http://framework.selahattinyuksel.net/pages/examples/ındex
+Examples: http://framework.selahattinyuksel.net/Pages/Examples/Index
 
-Test: http://framework.selahattinyuksel.net/pages/demo/ındex
+Test: http://framework.selahattinyuksel.net/Pages/Demo/Index
 
-Release Notes: http://framework.selahattinyuksel.net/pages/releasenotes/ındex
+Release Notes: http://framework.selahattinyuksel.net/Pages/ReleaseNotes/Index
 
-Documentation: http://framework.selahattinyuksel.net/pages/documentation/ındex
-
+Documentation: http://framework.selahattinyuksel.net/Pages/Documentation/Index
 
