@@ -25,12 +25,10 @@ Sürüm Notları: http://framework.selahattinyuksel.net/Pages/ReleaseNotes/Index
 Dökümantasyon: http://framework.selahattinyuksel.net/Pages/Documentation/Index
 
 ----------------------------------------------------------------------------------------------
-# SYuksel WebFramework
-The smallest web frameworkd to develop ASP.NET Web applications faster.
-## Features
 
 # SYuksel WebFramework
 The smallest web frameworkd to develop ASP.NET Web applications faster.
+
 ## Features
 => Model Layer Database Management
 
