@@ -5,7 +5,7 @@ ASP.NET Web uygulamalarını daha hızlı geliştirmek için en küçük web fra
 
 => ASP.NET Tag kütüphanesi ile işleri kolaylaştıracak nesneler.
 
-=> 3 veritabanı desteği (MSSQL, MySQL, Access)
+=> 4 veritabanı desteği (MSSQL, MySQL, Access, Oracle)
 
 => Web API, Web Service ve Sınıflar ile çalışma
 
@@ -34,7 +34,7 @@ The smallest web framework to develop ASP.NET Web applications faster.
 
 => Objects with ASP.NET Tag library will make things easier.
 
-=> 3 database support (MSSQL, MySQL, Access)
+=> 4 database support (MSSQL, MySQL, Access, Oracle)
 
 => Web API, Web Service and working with Classes
 
