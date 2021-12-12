@@ -1,15 +1,16 @@
 # SYuksel WebFramework
 ASP.NET Web uygulamalarını daha hızlı geliştirmek için en küçük web frameworkdür.
 ## Özellikler
-=> Model Katmanlı Veritabanı Yönetimi
 
-=> ASP.NET Tag kütüphanesi ile işleri kolaylaştıracak nesneler.
+- Model Katmanlı Veritabanı Yönetimi
 
-=> 4 veritabanı desteği (MSSQL, MySQL, Access, Oracle)
+- ASP.NET Tag kütüphanesi ile işleri kolaylaştıracak nesneler.
 
-=> Web API, Web Service ve Sınıflar ile çalışma
+- 4 veritabanı desteği (MSSQL, MySQL, Access, Oracle)
 
-=> jQuery plugin desteği
+- Web API, Web Service ve Sınıflar ile çalışma
+
+- jQuery plugin desteği
 
 ## Bağlantılar
 Daha fazlası için buraya bakın: 
@@ -30,15 +31,15 @@ Dökümantasyon: http://framework.selahattinyuksel.net/Pages/Documentation/Index
 The smallest web framework to develop ASP.NET Web applications faster.
 
 ## Features
-=> Model Layer Database Management
+- Model Layer Database Management
 
-=> Objects with ASP.NET Tag library will make things easier.
+- Objects with ASP.NET Tag library will make things easier.
 
-=> 4 database support (MSSQL, MySQL, Access, Oracle)
+- 4 database support (MSSQL, MySQL, Access, Oracle)
 
-=> Web API, Web Service and working with Classes
+- Web API, Web Service and working with Classes
 
-=> JQuery plugin support
+- JQuery plugin support
 
 ## Links
 See here for more:
