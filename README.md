@@ -1,5 +1,11 @@
 # SYuksel WebFramework
 The smallest web framework to develop ASP.NET Web applications faster.
+You can use the Nuget package manager to install it compiled into your project.
+```
+Install-Package SYuksel.WebFramework -Version 2.8.0
+```
+
+Nuget: https://www.nuget.org/packages/SYuksel.WebFramework
 
 ## Features
 - Model Layer Database Management
