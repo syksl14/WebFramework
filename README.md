@@ -18,6 +18,55 @@ Nuget: https://www.nuget.org/packages/SYuksel.WebFramework
 
 - JQuery plugin support
 
+## Examples
+
+#### Table Data Read
+
+```asp.net
+ <%
+   List<Models.Views.Users_V> users = SYuksel.WebFramework.GetData<Models.Views.Users_V>("SELECT * FROM Users_V ORDER BY pkID DESC").ToList();
+   foreach (Models.Views.Users_V user in users)
+     {
+       %>
+         <tr data-id="<%= user.pkID %>">
+           <td style="text-align: center;">
+             <input type="checkbox" class="userchkbox" />
+           </td>
+           <td><%= user.UserName %></td>
+           <td><%= user.Email %></td>
+           <td><%= user.CrudDate %></td>
+           <td><%= user.Name + " " + user.Surname %></td>
+           <td><%= user.Accessed == 1 ? "Yes" : "No" %></td>
+           <td>
+             <div style="width: 100px;">
+                <button type="button" onclick="users.edit(this);">Edit</button>
+                <button type="button" onclick="users.delete(this);">Delete</button>
+             </div>
+           </td>
+        </tr>
+  <% } %>
+```
+
+#### Table Data Insert
+
+```c#
+ Model.Users user = new Model.Users();
+ user.UserName = username;
+ user.Password = password; 
+ user.Email = email;
+ user.Password = password; 
+ Result r = WebFramework.InsertData(user);
+ return r.Message;
+```
+
+#### SQL Execute
+
+```c#
+ String sql = "DELETE FROM Users WHERE pkID= @pkID";
+ Result r = WebFramework.ExecuteNonQuery(sql, 6);
+```
+
+
 ## Links
 See here for more:
 
